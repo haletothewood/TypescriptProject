@@ -1,5 +1,5 @@
-import request from "request-promise"
-import dotenv from "dotenv"
+import request from 'request-promise'
+import dotenv from 'dotenv'
 
 dotenv.config()
 

@@ -1,13 +1,13 @@
 import {
-    handleCors,
-    handleBodyRequestParsing,
-    handleCompression
+  handleCors,
+  handleBodyRequestParsing,
+  handleCompression
 } from './common'
-import { handleAPIDocs } from "./apiDocs"
+import { handleAPIDocs } from './apiDocs'
 
 export default [
-    handleCors,
-    handleBodyRequestParsing,
-    handleCompression,
-    handleAPIDocs
+  handleCors,
+  handleBodyRequestParsing,
+  handleCompression,
+  handleAPIDocs
 ]
