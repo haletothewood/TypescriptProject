@@ -1,5 +1,5 @@
-node_modules
-dist
-*.log
-*.gz
-.env
+typescript-server/node_modules
+typescript-server/dist
+typescript-server/.env
+typescript-server/*.log
+typescript-server/*.gz
