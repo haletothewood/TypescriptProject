@@ -3,3 +3,16 @@ typescript-server/dist
 typescript-server/.env
 typescript-server/*.log
 typescript-server/*.gz
+
+typescript-app/node_modules
+typescript-app/.pnp
+typescript-app/.pnp.js
+typescript-app/coverage
+typescript-app/build
+
+# misc
+typescript-app/.DS_Store
+typescript-app/.env.local
+typescript-app/.env.development.local
+typescript-app/.env.test.local
+typescript-app/.env.production.local
