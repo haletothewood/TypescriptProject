@@ -27,7 +27,7 @@
     "request-promise": "^4.2.4",
     "swagger-ui-express": "^4.1.0",
     "ts-node-dev": "^1.0.0-pre.42",
-    "tsc-watch": "^3.0.1",
+    "tsc-watch": "^4.0.0",
     "typescript": "^3.6.3"
   },
   "devDependencies": {
