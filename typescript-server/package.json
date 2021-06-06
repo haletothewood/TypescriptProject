@@ -28,7 +28,7 @@
     "swagger-ui-express": "^4.1.0",
     "ts-node-dev": "^1.0.0-pre.42",
     "tsc-watch": "^3.0.1",
-    "typescript": "^3.6.3"
+    "typescript": "^4.0.0"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "3.0.2",
